@@ -1,0 +1,24 @@
+{
+  "name": "play-backend",
+  "version": "1.0.0",
+  "description": "A youtube like application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakhar12330/Play-Backend.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Express",
+    "MongoDB"
+  ],
+  "author": "Prakhar Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prakhar12330/Play-Backend/issues"
+  },
+  "homepage": "https://github.com/prakhar12330/Play-Backend#readme"
+}
