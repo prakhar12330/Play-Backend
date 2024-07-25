@@ -74,6 +74,7 @@ userSchema.methods.generateAccessToken=function(){
         }
     )
 }
+
 userSchema.method.generateRefreshToken=function(){
     return jwt.sign(
         {
